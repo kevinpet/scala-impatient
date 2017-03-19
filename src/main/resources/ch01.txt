@@ -1,0 +1,17 @@
+1. from != to →
+2. 2.9999999999999996
+3. val
+4. Return the current string concatenated n times.
+5. max of 10 and 2. method on Int
+6. scala> BigInt(2)
+   res8: scala.math.BigInt = 2
+
+   scala> res8 pow 1024
+   res9: scala.math.BigInt = 179769313486231590772930519078902473361797697894230657273430081157732675805500963132708477322407536021120113879871393357658789768814416622492847430639474124377767893424865485276302219601246094119453082952085005768838150682342462881473913110540827237163350510684586298239947245938479716304835356329624224137216
+
+7. util._ and BigInt._
+8.   bi.toString(36)
+9. s.head, s.last
+10. take the first n elements, discard the first n elements, take the last n elements, discard the last n elements.
+    advantage is same method as seqs, only disadvantage seems to be when taking a slice from the middle
+
